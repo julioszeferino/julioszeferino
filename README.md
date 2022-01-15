@@ -1,9 +1,9 @@
 ## Olá!! Eu sou o Júlio Zeferino
 
 
-- 👀 Hoje trabalho com Business Intelligence e Analytics
+- 📊 Hoje trabalho com Business Intelligence e Analytics
 - 🌱 Estudando Engenharia de Dados
-- Pronouns: ele / dele
+- 🥷 Pronouns: ele / dele
 
 <div align="center">
   <a href="https://github.com/julioszeferino">
