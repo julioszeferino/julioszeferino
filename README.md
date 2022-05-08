@@ -18,6 +18,20 @@ Consultor Analytics   :active,, 2021-08-01,2022-12-31
 
 ```
 
+  
+ ## Atuação profissional
+  
+ 📊 CoFounder - Be.X (02.2022 - Atual)  
+ 
+ 📊 Head of Analytics - Sal Express Soluções Logísticas (01.2021 - 06.2022)
+  
+  ## Formação Acadêmica
+  
+:newspaper_roll: Especialização em Engenharia de Dados - PUC (2022 - 2023)
+:newspaper_roll: Bacharel em Ciencia e Economia - UNIFAL/MG (2018 - 2021)
+:newspaper_roll: Técnico em Administração - IFSULDEMINAS (2017 - 2018)   
+
+
 <div align="center">
   <a href="https://github.com/julioszeferino">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julioszeferino&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
@@ -42,20 +56,3 @@ Consultor Analytics   :active,, 2021-08-01,2022-12-31
  
   ![Snake animation](https://github.com/julioszeferino/julioszeferino/blob/output/github-contribution-grid-snake.svg) 
 </div>  
-  
-  
-  ## Atuação profissional
-  
- 📊 CoFounder - Be.X (02.2022 - Atual)
- 📊 Head of Analytics - Sal Express Soluções Logísticas (01.2021 - 06.2022)
-  
-  ## Formação Acadêmica
-  
-:newspaper_roll: Especialização em Engenharia de Dados - PUC (2022 - 2023)
-:newspaper_roll: Bacharel em Ciencia e Economia - UNIFAL/MG (2018 - 2021)
-:newspaper_roll: Técnico em Administração - IFSULDEMINAS (2017 - 2018)
-
-
-  
-
-  
