@@ -28,7 +28,9 @@ Consultor Analytics   :active,, 2021-08-01,2022-12-31
   ## Formação Acadêmica
   
 :newspaper_roll: Especialização em Engenharia de Dados - PUC (2022 - 2023)
+
 :newspaper_roll: Bacharel em Ciencia e Economia - UNIFAL/MG (2018 - 2021)
+
 :newspaper_roll: Técnico em Administração - IFSULDEMINAS (2017 - 2018)   
 
 
