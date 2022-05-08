@@ -12,7 +12,6 @@ dateFormat  YYYY-MM-DD
 title My Timeline
 
 section Carreira
-IF Sul de Minas       :active,, 2017-12-01,2018-01-01
 Sal Express           :active,, 2020-06-01,2021-06-30
 Be.X                  :active,, 2021-02-01,2022-12-31
 Consultor Analytics   :active,, 2021-08-01,2022-12-31
