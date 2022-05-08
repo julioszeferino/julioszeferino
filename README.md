@@ -5,6 +5,26 @@
 - 🌱 Estudando Engenharia de Dados
 - 👦 Pronouns: ele / dele
 
+```mermaid
+
+gantt
+dateFormat  YYYY-MM-DD
+title My Timeline
+
+section Carreira
+Tapps Games           :active,, 2016-11-01,2017-04-01
+SAS Institute         :active,, 2017-04-01,2018-08-01
+Grupo Boticário       :active,, 2018-08-01,2019-11-01
+Via Varejo            :active,, 2019-11-01,2021-01-01
+Gamers Club           :active,, 2021-03-01,2022-12-31
+
+section Professor
+Téo Me Why            :active,, 2019-08-01,2022-12-31
+ASN.Rocks             :active,, 2020-06-01,2022-12-31
+
+
+```
+
 <div align="center">
   <a href="https://github.com/julioszeferino">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julioszeferino&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
