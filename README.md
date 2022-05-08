@@ -12,16 +12,10 @@ dateFormat  YYYY-MM-DD
 title My Timeline
 
 section Carreira
-Tapps Games           :active,, 2016-11-01,2017-04-01
-SAS Institute         :active,, 2017-04-01,2018-08-01
-Grupo Boticário       :active,, 2018-08-01,2019-11-01
-Via Varejo            :active,, 2019-11-01,2021-01-01
-Gamers Club           :active,, 2021-03-01,2022-12-31
-
-section Professor
-Téo Me Why            :active,, 2019-08-01,2022-12-31
-ASN.Rocks             :active,, 2020-06-01,2022-12-31
-
+IF Sul de Minas       :active,, 2017-12-01,2018-01-01
+Sal Express           :active,, 2020-06-01,2021-06-30
+Be.X                  :active,, 2021-02-01,2022-12-31
+Consultor Analytics   :active,, 2021-08-01,2022-12-31
 
 ```
 
