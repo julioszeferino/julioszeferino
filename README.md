@@ -33,6 +33,7 @@ Consultor Analytics   :active,, 2021-08-01,2022-12-31
 
 :newspaper_roll: Técnico em Administração - IFSULDEMINAS (2017 - 2018)   
 
+##
 
 <div align="center">
   <a href="https://github.com/julioszeferino">
