@@ -46,7 +46,8 @@ Consultor Analytics   :active,, 2021-08-01,2022-12-31
   <img align="center" alt="Julio-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Julio-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Julio-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Julio-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
+  <img align="center" alt="Julio-Django" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="right" alt="Julio-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/MP8GheZ.jpg">
 </div>
   
