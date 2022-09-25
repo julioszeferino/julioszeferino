@@ -1,7 +1,7 @@
-## Olá!! Eu sou o Júlio Zeferino
+# Olá!! Eu sou o Júlio Zeferino
 
 
-- 📊 Hoje trabalho com Business Intelligence e Analytics
+- 📊 Hoje trabalho como Product Manager em Projetos de Analytics
 - 🌱 Estudando Engenharia de Dados
 - 👦 Pronouns: ele / dele
 
@@ -9,29 +9,47 @@
 
 gantt
 dateFormat  YYYY-MM-DD
-title My Timeline
+title Minha Trajetória
 
 section Carreira
 Sal Express           :active,, 2020-06-01,2021-06-30
 Be.X                  :active,, 2021-02-01,2022-12-31
-Consultor Analytics   :active,, 2021-08-01,2022-12-31
+Freelancer   :active,, 2021-08-01,2022-12-31
 
 ```
 
   
- ## Atuação profissional
+## Atuação profissional
   
- 📊 CoFounder - Be.X (02.2022 - Atual)  
+📊 CoFounder | Product Manager - Be.X (02.2022 - Atual) 
+
+📊 Freelancer - Workana (05.2019 - Atual) 
  
- 📊 Head of Analytics - Sal Express Soluções Logísticas (01.2021 - 06.2022)
+ 
+📊 Head of Analytics | BI Project Leader - Sal Express Soluções Logísticas (01.2021 - 06.2022)
+
   
-  ## Formação Acadêmica
+## Formação Acadêmica
   
 :newspaper_roll: Especialização em Engenharia de Dados - PUC/MG (2022 - 2023)
 
 :newspaper_roll: Bacharel em Ciencia e Economia - UNIFAL (2018 - 2021)
 
 :newspaper_roll: Técnico em Administração - IFSULDEMINAS (2017 - 2018)   
+
+## Portfólio de Projetos
+[Dashboards](https://github.com/julioszeferino/dashboards)  
+[Modelagem de Banco de Dados Relacional](https://github.com/julioszeferino/banco_dados_relacional)  
+[Modelagem de Banco de Dados Dimensional](https://github.com/julioszeferino/banco_dados_dimensional)  
+[Crawler Microdados ENEM](https://github.com/julioszeferino/crawler_enem)  
+[Pipeline de Dados]()  
+
+## Publicações e Participações em Eventos
+
+[Bate Papo com o Egresso - Unifal MG](https://www.youtube.com/watch?v=YG-65-kyqNA)  
+[O que é a Engenharia de Dados? - Blog Voitto](https://voitto.com.br/blog/artigo/o-que-e-engenharia-de-dados)
+
+
 
 ##
 
