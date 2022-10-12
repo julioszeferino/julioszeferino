@@ -47,7 +47,7 @@ Freelancer   :active,, 2021-08-01,2022-12-31
 ## Publicações e Participações em Eventos
 
 [Bate Papo com o Egresso - Unifal MG](https://www.youtube.com/watch?v=YG-65-kyqNA)  
-[O que é a Engenharia de Dados? - Blog Voitto](https://voitto.com.br/blog/artigo/o-que-e-engenharia-de-dados)
+[O que é a Engenharia de Dados? - Blog Voitto](https://voitto.com.br/blog/artigo/o-que-e-engenharia-de-dados)  
 [Business Process Outsourcing: o que é e como implantar no seu negócio! - Blog Voitto](https://voitto.com.br/blog/artigo/bpo)
 
 
