@@ -64,9 +64,7 @@ Freelancer   :active,, 2021-08-01,2022-12-31
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a> <a
         href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra"
-            width="40" height="40" /> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"
-            alt="cypress" width="40" height="40" /> </a> <a href="https://www.djangoproject.com/" target="_blank"
+            width="40" height="40" /> </a> <a href="https://www.djangoproject.com/" target="_blank"
         rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40"
             height="40" /> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
