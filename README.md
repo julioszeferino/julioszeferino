@@ -21,7 +21,7 @@ Freelancer   :active,, 2019-05-01,2022-12-31
   
 ## Atuação profissional
   
-📊 CoFounder | Product Manager - Be.X (02.2021 - Atual) 
+📊 Product Manager - Be.X (02.2021 - Atual) 
 
 📊 Freelancer - Workana (05.2019 - Atual) 
  
