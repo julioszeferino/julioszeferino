@@ -42,13 +42,15 @@ Freelancer   :active,, 2021-08-01,2022-12-31
 [Modelagem de Banco de Dados Relacional](https://github.com/julioszeferino/banco_dados_relacional)  
 [Modelagem de Banco de Dados Dimensional](https://github.com/julioszeferino/banco_dados_dimensional)  
 [Crawler Microdados ENEM](https://github.com/julioszeferino/crawler_enem)  
-[Pipeline de Dados](https://github.com/julioszeferino/pipeline_dados)  
+[Pipeline de Dados](https://github.com/julioszeferino/pipeline_dados) 
+[Data Lakehouse](https://github.com/julioszeferino/data_lakehouse) 
 
 ## Publicações e Participações em Eventos
 
 [Bate Papo com o Egresso - Unifal MG](https://www.youtube.com/watch?v=YG-65-kyqNA)  
 [O que é a Engenharia de Dados? - Blog Voitto](https://voitto.com.br/blog/artigo/o-que-e-engenharia-de-dados)  
-[Business Process Outsourcing: o que é e como implantar no seu negócio! - Blog Voitto](https://voitto.com.br/blog/artigo/bpo)
+[Business Process Outsourcing: o que é e como implantar no seu negócio! - Blog Voitto](https://voitto.com.br/blog/artigo/bpo)  
+[Engenharia de Dados: entenda o que é e quais os desafios da área! - Blog Voitto](https://voitto.com.br/blog/artigo/rpa) 
 
 
 ##
