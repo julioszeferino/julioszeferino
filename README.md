@@ -43,7 +43,8 @@ Freelancer   :active,, 2019-05-01,2022-12-31
 [Modelagem de Banco de Dados Dimensional](https://github.com/julioszeferino/banco_dados_dimensional)  
 [Crawler Microdados ENEM](https://github.com/julioszeferino/crawler_enem)  
 [Pipeline de Dados](https://github.com/julioszeferino/pipeline_dados)  
-[Data Lakehouse](https://github.com/julioszeferino/data_lakehouse) 
+[Data Lakehouse](https://github.com/julioszeferino/data_lakehouse)  
+[Streaming de Dados com o AWS Kinesis](https://github.com/julioszeferino/streaming_kinesis)  
 
 ## Publicações e Participações em Eventos
 
