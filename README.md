@@ -61,7 +61,9 @@ Freelancer   :active,, 2019-05-01,2022-12-31
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julioszeferino&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioszeferino&layout=compact&langs_count=7&theme=merko"/>
 </div>
-  
+<div> 
+  <img align="right" alt="Julio-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/MP8GheZ.jpg">
+</div>
   
 
   
