@@ -1,8 +1,11 @@
 # Olá!! Eu sou o Júlio Zeferino
 
+</br>
+<div style="text-align:center"><h3>Desenvolvedor Python Engenheiro de Dados</h3><div/>
+</br>
+
 - 📊 Hoje trabalho como Product Manager em Projetos de Analytics
-- 📌 Sou Desenvolvedor Python | Engenheiro de Dados
-- 🌱 Estudando Estrategias de Processamento de Big Data
+- 🌱 Neste momento estou estudando sobre estrategias para processamento de Big Data
 - 👦 Pronouns: ele / dele
 
 ```mermaid
