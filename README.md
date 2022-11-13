@@ -1,8 +1,8 @@
 # Olá!! Eu sou o Júlio Zeferino
 
-
 - 📊 Hoje trabalho como Product Manager em Projetos de Analytics
-- 🌱 Estudando Engenharia de Dados
+- 📌 Sou Desenvolvedor Python | Engenheiro de Dados
+- 🌱 Estudando Estrategias de Processamento de Big Data
 - 👦 Pronouns: ele / dele
 
 ```mermaid
@@ -23,9 +23,8 @@ Freelancer   :active,, 2019-05-01,2022-12-31
   
 📊 Product Manager - Be.X (02.2021 - Atual) 
 
-📊 Freelancer - Workana (05.2019 - Atual) 
- 
- 
+📊 Freelancer BI | Python Developer - Workana (05.2019 - Atual) 
+
 📊 Head of Analytics | BI Project Leader - Sal Express Soluções Logísticas (01.2021 - 06.2022)
 
   
