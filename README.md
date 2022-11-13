@@ -1,7 +1,8 @@
 # Olá!! Eu sou o Júlio Zeferino
 
-</br>
-<div style="text-align:center"><h3>Desenvolvedor Python Engenheiro de Dados</h3><div/>
+<div style="text-align:center">
+  <h3>Desenvolvedor Python | Engenheiro de Dados</h3>
+<div/>
 </br>
 
 - 📊 Hoje trabalho como Product Manager em Projetos de Analytics
