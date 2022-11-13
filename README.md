@@ -6,7 +6,6 @@
 </br>
 
 - 📊 Hoje trabalho como Product Manager em Projetos de Analytics
-- 🌱 Neste momento estou estudando sobre estrategias para processamento de Big Data
 - 👦 Pronouns: ele / dele
 
 ```mermaid
