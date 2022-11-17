@@ -30,7 +30,7 @@ Freelancer   :active,, 2019-05-01,2022-12-31
 
 📊 Data Analyst - Sal Express Soluções Logísticas (06.2020 - 12.2020)
 
-📊 Freelancer BI | Python Developer - Workana (05.2019 - Atual)
+📊 BI | Python Developer - Freelancer (05.2019 - Atual)
 
   
 ## Formação Acadêmica
