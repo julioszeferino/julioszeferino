@@ -24,11 +24,13 @@ Freelancer   :active,, 2019-05-01,2022-12-31
   
 ## Atuação profissional
   
-📊 Product Manager - Be.X (02.2021 - Atual) 
+📊 Product Manager - Be.X (02.2021 - Atual)  
 
-📊 Freelancer BI | Python Developer - Workana (05.2019 - Atual) 
+📊 Head of Analytics | BI Project Leader - Sal Express Soluções Logísticas (01.2021 - 06.2021)  
 
-📊 Head of Analytics | BI Project Leader - Sal Express Soluções Logísticas (01.2021 - 06.2022)
+📊 Data Analyst - Sal Express Soluções Logísticas (06.2020 - 12.2020)
+
+📊 Freelancer BI | Python Developer - Workana (05.2019 - Atual)
 
   
 ## Formação Acadêmica
