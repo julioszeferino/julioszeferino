@@ -49,6 +49,7 @@ Freelancer   :active,, 2019-05-01,2022-12-31
 [Pipeline de Dados](https://github.com/julioszeferino/pipeline_dados)  
 [Data Lakehouse](https://github.com/julioszeferino/data_lakehouse)  
 [Streaming de Dados com o AWS Kinesis](https://github.com/julioszeferino/streaming_kinesis)  
+[API Assincrona com FastAPI](https://github.com/julioszeferino/api_faculdade)  
 
 ## Publicações e Participações em Eventos
 
