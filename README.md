@@ -17,7 +17,6 @@ title Minha Trajetória
 section Carreira
 Sal Express           :active,, 2020-06-01,2021-06-30
 Be.X                  :active,, 2021-02-01,2022-12-31
-Freelancer   :active,, 2019-05-01,2022-12-31
 
 ```
 
@@ -29,8 +28,6 @@ Freelancer   :active,, 2019-05-01,2022-12-31
 📊 Head of Analytics | BI Project Leader - Sal Express Soluções Logísticas (01.2021 - 06.2021)  
 
 📊 Data Analyst - Sal Express Soluções Logísticas (06.2020 - 12.2020)
-
-📊 BI | Python Developer - Freelancer (05.2019 - Atual)
 
   
 ## Formação Acadêmica
