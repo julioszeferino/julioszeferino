@@ -61,7 +61,7 @@ Be.X                  :active,, 2021-02-01,2022-12-31
 <div align="center">
   <a href="https://github.com/julioszeferino">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julioszeferino&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioszeferino&layout=compact&langs_count=7&theme=merko"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julioszeferino&layout=compact&langs_count=10&theme=merko"/>
 </div>
 
 <div> 
