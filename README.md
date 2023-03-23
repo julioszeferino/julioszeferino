@@ -58,6 +58,10 @@ Be.X                  :active,, 2021-02-01,2023-06-01
 
 ##
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=julioszeferino&bg_color=0d1117&color=3b82f6&line=06b6d4&point=f1f5f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+##
+
 <div align="center">
   <a href="https://github.com/julioszeferino">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=julioszeferino&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
