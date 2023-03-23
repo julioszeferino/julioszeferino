@@ -21,7 +21,9 @@
 
   
 ## Formação Acadêmica
-  
+
+:newspaper_roll: Especialização em Data Science - Faculdade Descomplica (2023 - 2024)  
+
 :newspaper_roll: Especialização em Engenharia de Dados - PUC/MG (2022 - 2023)
 
 :newspaper_roll: Bacharel em Ciencia e Economia - UNIFAL (2018 - 2021)
