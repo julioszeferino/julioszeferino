@@ -7,21 +7,9 @@
 <div/>
 </br>
 
-- 📊 Hoje trabalho como Product Manager em Projetos de Analytics
+- 📊 Hoje trabalho como Engenheiro de Dados
 - 👦 Pronouns: ele / dele
-
-```mermaid
-
-gantt
-dateFormat  YYYY-MM-DD
-title Minha Trajetória
-
-section Carreira
-Sal Express           :active,, 2020-06-01,2021-06-30
-Be.X                  :active,, 2021-02-01,2023-06-01
-
-```
-
+- 🌱 Estudando sobre Big Data
   
 ## Atuação profissional
   
