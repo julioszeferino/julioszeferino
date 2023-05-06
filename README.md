@@ -13,9 +13,9 @@
   
 ## Atuação profissional
   
-📊 Product Manager - Be.X (02.2021 - Atual)  
+📊 Data Engineer | Tech Lead - Be.X (02.2021 - 04.2023)  
 
-📊 Head of Analytics | BI Project Leader - Sal Express Soluções Logísticas (01.2021 - 06.2021)  
+📊 Supervisor Torre de Controle | BI Project Leader - Sal Express Soluções Logísticas (01.2021 - 06.2021)  
 
 📊 Data Analyst - Sal Express Soluções Logísticas (06.2020 - 12.2020)
 
