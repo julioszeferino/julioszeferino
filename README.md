@@ -13,7 +13,7 @@
   
 ## Atuação profissional
   
-📊 Data Engineer | Tech Lead - Be.X (02.2021 - 04.2023)  
+📊 Data Engineer - Be.X (02.2021 - 04.2023)  
 
 📊 Supervisor Torre de Controle | BI Project Leader - Sal Express Soluções Logísticas (01.2021 - 06.2021)  
 
