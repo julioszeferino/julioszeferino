@@ -41,6 +41,7 @@
 [Data Lakehouse](https://github.com/julioszeferino/data_lakehouse)  
 [Streaming de Dados com o AWS Kinesis](https://github.com/julioszeferino/streaming_kinesis)  
 [API Assincrona com FastAPI](https://github.com/julioszeferino/api_faculdade)  
+[Pipeline ELT com Airflow, DBT e Metabase](https://github.com/julioszeferino/tcc_pos_puc_engenharia_dados)
 
 ## Publicações e Participações em Eventos
 
