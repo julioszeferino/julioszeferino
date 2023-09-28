@@ -13,7 +13,7 @@
   
 ## Atuação profissional
 
-📊 Data Engineer - QSOFT (07.2021 - Atual)  
+📊 Data Engineer - QSOFT (07.2023 - Atual)  
 
 📊 Data Engineer - Be.X (02.2021 - 09.2023)  
 
