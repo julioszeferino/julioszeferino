@@ -12,8 +12,10 @@
 - 🌱 Estudando sobre Big Data
   
 ## Atuação profissional
-  
-📊 Data Engineer - Be.X (02.2021 - 04.2023)  
+
+📊 Data Engineer - QSOFT (07.2021 - Atual)  
+
+📊 Data Engineer - Be.X (02.2021 - 09.2023)  
 
 📊 Supervisor Torre de Controle | BI Project Leader - Sal Express Soluções Logísticas (01.2021 - 06.2021)  
 
@@ -22,7 +24,7 @@
   
 ## Formação Acadêmica
 
-:newspaper_roll: Especialização em Data Science - Faculdade Descomplica (2023 - 2024)  
+:newspaper_roll: Especialização em Desenvolvimento Full Stack - Faculdade Descomplica (2023 - 2024)  
 
 :newspaper_roll: Especialização em Engenharia de Dados - PUC/MG (2022 - 2023)
 
