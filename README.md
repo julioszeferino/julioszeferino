@@ -15,7 +15,9 @@
 
 📊 Data Engineer - QSOFT (07.2023 - Atual)  
 
-📊 Data Engineer - Be.X (02.2021 - 09.2023)  
+📊 Data Engineer - Sal Express Soluções Logísticas (04.2023 - 09.2023)
+
+📊 Data Engineer - Be.X (02.2021 - 04.2023)  
 
 📊 Supervisor Torre de Controle | BI Project Leader - Sal Express Soluções Logísticas (01.2021 - 06.2021)  
 
